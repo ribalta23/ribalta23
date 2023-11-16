@@ -7,14 +7,10 @@
 <br>
 ## My main languages 💻
 <br>
-<p>HTML - CSS</p>
-<br>
-<p>A little bit of JavaScript</p>
-<br>
-<p>I am currently lerning Java, i have the basics, like loops, arrays and all kinds of variables</p>
-<br>
-<p>I also have a good learning of C# for unity and development</p>
-<br>
+- <p>HTML - CSS</p>
+- <p>A little bit of JavaScript</p>
+- <p>I am currently lerning Java, i have the basics, like loops, arrays and all kinds of variables</p>
+- <p>I also have a good learning of C# for unity and development</p>
 ## My main projects 💻
 <br>
 - <a href="https://github.com/ribalta23/MyProjectsHTML-CSS-JS">Projects HTML - CSS - JS</a>
