@@ -1,10 +1,10 @@
 ## A little bit about me 👾
 <p>I am a boy who is passionate about computing since I was little, everything related to programming is my thing.</p>
 <p>I am currently in professional training in cross-platform app development, in which I am focused on Java, but I am also passionate about the web world (HTML, CSS, JS). I am also developing video games with Unity and C#</p>
-<br>
-## My social media & Portfolio 👾
+
+## Social media & Porfolio
 - <a href="https://aleixribalta.com">My Website/Portfolio</a>
-<br>
+
 ## My main languages 💻
 <br>
 - <p>HTML - CSS</p>
