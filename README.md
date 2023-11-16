@@ -1,5 +1,15 @@
-### Hi there 👋
-IM ALEIX
-
-- 🔭 I'm studying cross-platform application development in Spain.
-- 🌱 I’m currently learning HTML, CSS, JS, JAVA, C#...
+**## A little bit about me 👾
+<p>I am a boy who is passionate about computing since I was little, everything related to programming is my thing.</p>
+<p>I am currently in professional training in cross-platform app development, in which I am focused on Java, but I am also passionate about the web world (HTML, CSS, JS). I am also developing video games with Unity and C#</p>
+**## My social media & Portfolio 👾
+- <a href="https://aleixribalta.com">My Website/Portfolio</a>
+<br>
+## My main languages 💻
+<p>HTML - CSS</p>
+<p>A little bit of JavaScript</p>
+<p>I am currently lerning Java, i have the basics, like loops, arrays and all kinds of variables</p>
+<p>I also have a good learning of C# for unity and development</p>
+## My main projects 💻
+- <a href="https://github.com/ribalta23/MyProjectsHTML-CSS-JS">Projects HTML - CSS - JS</a>
+- <a href="https://github.com/ribalta23/SMX-Projects">Projects I did in other past courses</a>
+- <a href="https://github.com/ribalta23/FusteriaJoanRibalta">My Father's WEB</a>
