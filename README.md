@@ -16,3 +16,5 @@
 - <a href="https://github.com/ribalta23/SMX-Projects">Projects I did in other past courses</a>
 - <a href="https://github.com/ribalta23/FusteriaJoanRibalta">My Father's WEB</a>
 - <a href="https://github.com/ribalta23/developing-in-unity">My projects in Unity</a>
+- <a href="https://github.com/ribalta23/EL_CONCURSILLO">El Concursillo</a>
+- <a href="https://github.com/ribalta23/M3---PROGRAMACIO">Java Projects</a>
