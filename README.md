@@ -10,10 +10,11 @@
 ## My main languages 💻⌨️
 <p>1- HTML - CSS</p>
 <p>2- A little bit of JavaScript</p>
-<p>3- I am currently lerning Java, i have the basics, like loops, arrays and all kinds of variables</p>
+<p>3- I am currently lerning Java</p>
 <p>4- I also have a good learning of C# for unity and development</p>
 <p>5- I use Python for a little projects in class</p>
 <p>6- Now im lerning databases with MySQL & MongoDB</p>
+<p>7- Visual Basic is a language that I am currently using in my internship.</p>
 
 ## My main projects 📂
 - <a href="https://github.com/ribalta23/MyProjectsHTML-CSS-JS">Projects HTML - CSS - JS</a>
