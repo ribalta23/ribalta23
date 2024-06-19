@@ -11,9 +11,9 @@
 <p>1- HTML - CSS - JS</p>
 <p>2- Learning Frameworks: Vue - Tailwind - Django</p>
 <p>3- I am currently lerning Java</p>
-<p>4- I also have a good learning of C# for unity and development</p>
-<p>6- Now im lerning databases with MySQL & MongoDB</p>
-<p>7- And also using Visual Basic</p>
+<p>4- I also have a good learning of C# for Unity and development</p>
+<p>5- Databases with MySQL & MongoDB</p>
+<p>6- And also using Visual Basic</p>
 
 ## My main projects 📂
 - <a href="https://github.com/ribalta23/MyProjectsHTML-CSS-JS">Projects HTML - CSS - JS</a>
