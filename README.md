@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **VUE, PYTHON, PHP, JAVA, SQL...**
 
-- 👨‍💻 All of my projects are available at [ribalta23.github.io](ribalta23.github.io)
+- 👨‍💻 All of my projects are available at <a href="ribalta23.github.io"> Portfolio </a>
 
 - 📫 How to reach me **aleixribalta04@gmail.com**
 
