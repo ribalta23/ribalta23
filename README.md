@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, Soy Aleix Ribalta!</h1>
-<h3 align="center">Full Stack Developer apasionado | Estudiante de Ingeniería Informática</h3>
+<h3 align="center">Full Stack Developer apasionado | Estudiante de DAM</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Desarrollador+MERN+Stack;Amante+del+aprendizaje+continuo;Entusiasta+de+la+programación+creativa;Contribuidor+Open+Source" alt="Typing SVG" /></a>
